@@ -1,5 +1,5 @@
 # GP
-Corresponding code for Geophysics Prospecting
+Corresponding code for manuscript of Journal of Geophysics and Engineering
 
 Please note that matlab toolbox CREWS is needed for the boundary condition.
 
