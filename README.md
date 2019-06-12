@@ -1,5 +1,5 @@
-# JGE
-Corresponding code for manuscript of Journal of Geophysics and Engineering
+# AJG
+Corresponding code for manuscript of AJG
 
 Please note that matlab toolbox CREWS is needed for the boundary condition.
 
